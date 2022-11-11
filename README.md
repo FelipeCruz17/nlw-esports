@@ -21,4 +21,5 @@ Esse projeto foi desenvolvido durante a Next Level Week eSports da Rocketseat.
   * TypeScript
   * Prisma
 
+</br>
   <img src=".github/cover.png" align="center" />
